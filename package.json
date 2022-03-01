@@ -1,0 +1,23 @@
+{
+  "name": "@starrah/prototype-utils",
+  "version": "0.1.0",
+  "description": "A set of utils about prototype manipulation. Use as your own risks.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "keywords": [],
+  "author": "Starrah",
+  "repository": {
+    "url": "https://github.com/Starrah/prototype-utils",
+    "type": "Github"
+  },
+  "files": [
+    "*.{js,ts}"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "private": false
+}
